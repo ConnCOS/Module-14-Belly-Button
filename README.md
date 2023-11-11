@@ -11,7 +11,7 @@
 * Use sample_values for the marker size.
 * Use otu_ids for the marker colors.
 * Use otu_labels for the text values.
-### Display the sample metadata, i.e., an individual's demographic information.
-### Display each key-value pair from the metadata JSON object somewhere on the page.
-### Update all the plots when a new sample is selected. 
-### Deploy the app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+#### Display the sample metadata, i.e., an individual's demographic information.
+#### Display each key-value pair from the metadata JSON object somewhere on the page.
+#### Update all the plots when a new sample is selected. 
+#### Deploy the app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
